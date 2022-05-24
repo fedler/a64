@@ -1,0 +1,13 @@
+# System
+.DS_Store
+*.ini
+
+# Editor
+/.idea/
+/.vs/
+/.vscode/
+
+# Build
+/cmake-build-debug/
+*.log
+*.swp
